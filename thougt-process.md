@@ -104,12 +104,16 @@ This builds on Use Case 1 by adding observability and monitoring, transforming t
 
 
 
+
+
+
+
 SECURITY REVIEW
 Multi-Region Azure Deployment – Review
 
 This project demonstrates a multi-region setup across East US and West Europe, focusing on availability, security, and cost optimization.
 
- Security (Azure Advisor)
+Security (Azure Advisor)
 
 Security scores may differ due to:
 
